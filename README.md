@@ -35,25 +35,25 @@ Me encargo de todo el proceso: entiendo el problema, diseño la estrategia, cons
 
 ## 🚀 Proyectos
 
-**Agentes de IA para atención a clientes** · *n8n · OpenAI · WhatsApp*
+**Agentes de IA para atención a clientes** · *n8n · OpenAI · WhatsApp*<br>
 Asistentes que responden 24/7 en web, WhatsApp y Telegram. Una sola base de conocimiento que el negocio edita sin tocar código, traspaso a un asesor con registro del prospecto y filtros contra intentos de manipular al bot.
 
-**VoXeta** · *C# · .NET 8 · OpenAI*
+**VoXeta** · *C# · .NET 8 · OpenAI*<br>
 App de dictado por voz con IA para Windows y Mac: con un atajo de teclado graba, transcribe, limpia el texto con IA y lo pega donde estés escribiendo. Instalador propio y 62 pruebas automatizadas.
 
-**AWT Hub** · *Next.js · Supabase · TypeScript*
+**AWT Hub** · *Next.js · Supabase · TypeScript*<br>
 Plataforma interna de Add Web Tech para gestionar clientes, servicios, recibos y cobros recurrentes, con seguridad por fila y despliegue continuo.
 
-**Consultorio Inteligente** · *Next.js · Supabase* · 🔨 en desarrollo
+**Consultorio Inteligente** · *Next.js · Supabase* · 🔨 en desarrollo<br>
 Plataforma para consultorios médicos con página pública, panel del doctor y asistente por mensajes.
 
-**Automatización contable con IA** · *Python · Streamlit*
+**Automatización contable con IA** · *Python · Streamlit*<br>
 Llena cada mes el papel de trabajo de IVA del SAT a partir de las facturas (CFDI) y genera un reporte de diferencias. Antes se hacía factura por factura a mano.
 
-**Rifeta** · *Supabase Realtime*
+**Rifeta** · *Supabase Realtime*<br>
 Rifas en vivo para eventos masivos: registro por QR, sorteos en el servidor (justos y auditables) y pantalla de escenario en tiempo real.
 
-**Sitios web con SEO para IA** · *HTML/CSS/JS · PHP · Three.js*
+**Sitios web con SEO para IA** · *HTML/CSS/JS · PHP · Three.js*<br>
 Más de 8 sitios a la medida con animaciones 3D, panel propio para el blog y optimización para buscadores tradicionales y con IA.
 
 ---
